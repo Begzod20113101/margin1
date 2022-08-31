@@ -1,5 +1,14 @@
-*{
-    width: 0;
-    height: 0;
-    box-sizing: border-box;
+li{
+    display: flex;
+    font-style: none;
+margin: 80px;
+color: aliceblue    ;
+font-size: 50px;
+}
+ul{
+    display: flex;
+    background-color: black;
+    border-radius: 120px;
+    box-shadow: red wheat blue green ;
+    
 }
